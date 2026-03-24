@@ -19,6 +19,7 @@ I am a 25-year-old Fullstack Developer currently working at Cynteka. I build web
 
 * Tools: Git, Docker, Maven, Gradle. <br>
 
-* I’m always looking to improve my skills and learn new technologies. <br>
+
+# I’m always looking to improve my skills and learn new technologies. <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yungdanie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
