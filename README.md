@@ -11,7 +11,7 @@ I am a 25-year-old Fullstack Developer currently working at Cynteka. I build web
 
 * Mobile: I am also interested in mobile development. Right now, I am learning Android and Flutter to build cross-platform apps. <br>
 
-My Tech Stack: <br>
+# My Tech Stack: <br>
 
 * Languages: Java, TypeScript, JavaScript, Dart. <br>
 
